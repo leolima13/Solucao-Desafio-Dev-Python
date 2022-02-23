@@ -74,7 +74,11 @@ Bibliotecas usadas:
 
 **TO DO list**:
 * Criar testes unitários;
-* Simplificar o código, criando mais funções e elimnando os for loop;
+* Simplificar o código:
+  * Criar um fluxo do código que facilite a interpretação;
+  * Criar mais funções;
+  * Eliminar os demasiados for loops;
+  * Criar nomes melhores para as variáveis e funções;
 
 
 
